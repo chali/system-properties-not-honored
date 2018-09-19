@@ -1,0 +1,2 @@
+boolean property = Boolean.getBoolean("example.property")
+println("Example property is: $property")
